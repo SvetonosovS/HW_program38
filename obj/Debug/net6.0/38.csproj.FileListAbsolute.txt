@@ -1,0 +1,30 @@
+E:\C#\Example C#\38\obj\Debug\net6.0\38.csproj.AssemblyReference.cache
+E:\C#\Example C#\38\obj\Debug\net6.0\38.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Example C#\38\obj\Debug\net6.0\38.AssemblyInfoInputs.cache
+E:\C#\Example C#\38\obj\Debug\net6.0\38.AssemblyInfo.cs
+E:\C#\Example C#\38\obj\Debug\net6.0\38.csproj.CoreCompileInputs.cache
+E:\C#\Example C#\38\bin\Debug\net6.0\38.exe
+E:\C#\Example C#\38\bin\Debug\net6.0\38.deps.json
+E:\C#\Example C#\38\bin\Debug\net6.0\38.runtimeconfig.json
+E:\C#\Example C#\38\bin\Debug\net6.0\38.dll
+E:\C#\Example C#\38\bin\Debug\net6.0\38.pdb
+E:\C#\Example C#\38\obj\Debug\net6.0\38.dll
+E:\C#\Example C#\38\obj\Debug\net6.0\refint\38.dll
+E:\C#\Example C#\38\obj\Debug\net6.0\38.pdb
+E:\C#\Example C#\38\obj\Debug\net6.0\38.genruntimeconfig.cache
+E:\C#\Example C#\38\obj\Debug\net6.0\ref\38.dll
+E:\C#\Homework\Lesson_05_C#\38\bin\Debug\net6.0\38.exe
+E:\C#\Homework\Lesson_05_C#\38\bin\Debug\net6.0\38.deps.json
+E:\C#\Homework\Lesson_05_C#\38\bin\Debug\net6.0\38.runtimeconfig.json
+E:\C#\Homework\Lesson_05_C#\38\bin\Debug\net6.0\38.dll
+E:\C#\Homework\Lesson_05_C#\38\bin\Debug\net6.0\38.pdb
+E:\C#\Homework\Lesson_05_C#\38\obj\Debug\net6.0\38.csproj.AssemblyReference.cache
+E:\C#\Homework\Lesson_05_C#\38\obj\Debug\net6.0\38.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Homework\Lesson_05_C#\38\obj\Debug\net6.0\38.AssemblyInfoInputs.cache
+E:\C#\Homework\Lesson_05_C#\38\obj\Debug\net6.0\38.AssemblyInfo.cs
+E:\C#\Homework\Lesson_05_C#\38\obj\Debug\net6.0\38.csproj.CoreCompileInputs.cache
+E:\C#\Homework\Lesson_05_C#\38\obj\Debug\net6.0\38.dll
+E:\C#\Homework\Lesson_05_C#\38\obj\Debug\net6.0\refint\38.dll
+E:\C#\Homework\Lesson_05_C#\38\obj\Debug\net6.0\38.pdb
+E:\C#\Homework\Lesson_05_C#\38\obj\Debug\net6.0\38.genruntimeconfig.cache
+E:\C#\Homework\Lesson_05_C#\38\obj\Debug\net6.0\ref\38.dll
